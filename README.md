@@ -11,7 +11,7 @@ Yangzi Wang ([wangyz.benniao@gmail.com](mailto\:wangyz.benniao@gmail.com))
 
 ### **Introduction**
 
-The IFRAMLOG pipeline is designed for generating a Maximum Likelihood (ML) phylogenetic tree with a outgroup from SNPs stored in VCF files. The pipeline extracts flanking sequences around SNPs, identifies orthologous alleles in an outgroup reference genome, and uses ModelTest-NG and RAxML-NG to generate an ML tree. This pipeline was originally used in the great duckweed population genomics project: https://doi.org/10.1038/s42003-024-06266-7
+The IFRAMLOG (InFeRence A Maximum Likelihood tree with OutGroup from SNPs) pipeline is designed for generating a Maximum Likelihood (ML) phylogenetic tree with a outgroup from SNPs stored in VCF files. The pipeline extracts flanking sequences around SNPs, identifies orthologous alleles in an outgroup reference genome, and uses ModelTest-NG and RAxML-NG to generate an ML tree. This pipeline was originally used in the great duckweed population genomics project: https://doi.org/10.1038/s42003-024-06266-7
 
 ---
 
