@@ -65,7 +65,7 @@ perl IFRAMLOG_v0.1.pl \
     --ref genome.fa \
     --OG_ref OG_genome.fa \
     --out_dir /path/to/output/ \
-    --out snp_regions.fa \
+    --out out_base \
     --blast_C 4 \
     --FLK_len 150 \
     --N_perc 0.5
